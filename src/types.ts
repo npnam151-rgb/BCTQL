@@ -27,7 +27,7 @@ export const CHECKLIST_ITEMS: ChecklistItemDef[] = [
   { id: 4, category: 'Đồ ăn & Thức uống', title: 'VĐ về Bia', placeholder: 'Chất lượng bia, nhiệt độ, bọt...', example: 'Bia lạnh, bọt đẹp' },
   { id: 5, category: 'Vận hành (Bar/Bàn)', title: 'Nhân sự (Bar/Bàn)', placeholder: 'Tình hình nhân sự, thái độ, kỹ năng...', example: 'Thiếu 1 bạn chạy bàn ca tối' },
   { id: 6, category: 'Vận hành (Bar/Bàn)', title: 'Bảo trì, sửa chữa', placeholder: 'Tình trạng máy móc, trang thiết bị...', example: 'Hỏng vòi nước bồn rửa ly' },
-  { id: 7, category: 'Bếp', title: 'Nhân sự (Bếp)', placeholder: 'Tình hình nhân sự khu bếp', example: 'Đủ 3 phụ bếp' },
+  { id: 7, category: 'Đào tạo', title: 'Công tác đào tạo', placeholder: 'Tình hình đào tạo, huấn luyện nhân sự...', example: 'Đào tạo nhân viên mới nội quy' },
   { id: 8, category: 'Bếp', title: 'Các vđ về bếp', placeholder: 'Tình hình vệ sinh, nhập hàng, hao hụt...', example: 'Thiếu khay đựng đá cục' },
   { id: 9, category: 'Sự kiện khác', title: 'Đối ngoại CQ', placeholder: 'Cơ quan chức năng kiểm tra...', example: 'Không có' },
   { id: 10, category: 'Sự kiện khác', title: 'Phát sinh bất thường', placeholder: 'Tình huống đánh nhau, hỏng hóc lớn...', example: 'Khách làm vỡ 1 cốc bia' },
